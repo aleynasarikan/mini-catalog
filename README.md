@@ -1,17 +1,16 @@
 # Mini Catalog
 
-Mini Catalog, eğitim amaçlı hazırlanmış şık bir Flutter katalog uygulamasıdır. Uygulama ürün listeleme, detay görünümleri, sepet simülasyonu ve filtreleme özellikleri içerir.
+Mini Catalog, eğitim amaçlı hazırlanmış şık bir Flutter katalog uygulamasıdır. Uygulama ürün listeleme, ürün detayları, sepet yönetimi, favori ürünler ve kategori filtreleme özellikleri içerir.
 
-## Özellikler
+## Proje Adı
 
-- Ana sayfa ürün kartları ile katalog görünümü
-- Ürün detay ekranı
-- Sepete ekleme ve sepetten kaldırma
-- Favori ürünler (wishlist)
-- Arama ve kategori filtreleme
-- Harici API'den veya yerel JSON dosyasından veri yükleme
+- Mini Catalog
 
-## Kullanılan Flutter sürümü
+## Kısa Açıklama
+
+Mini Catalog, kullanıcıların ürünleri görüntüleyebildiği, favorilere ekleyebildiği ve sepetine ekleyebildiği modern bir Flutter alışveriş uygulamasıdır.
+
+## Kullanılan Flutter Sürümü
 
 - Flutter SDK: 3.12.x veya üzeri
 - Dart SDK: 3.12.x veya üzeri
@@ -37,6 +36,15 @@ flutter pub get
 flutter run
 ```
 
+## Özellikler
+
+- Ana sayfa ürün kartları ile katalog görünümü
+- Ürün detay ekranı
+- Sepete ekleme ve sepetten kaldırma
+- Favori ürünler (wishlist)
+- Arama ve kategori filtreleme
+- Harici API'den veya yerel JSON dosyasından veri yükleme
+
 ## Notlar
 
 - Uygulama önce `https://wantapi.com/products.php` adresinden veri çekmeyi dener.
@@ -56,11 +64,13 @@ Bu proje ile öğrenciler aşağıdaki yetkinliklere sahip olacaktır:
 
 ## Ekran Görüntüleri
 
-- Teslimat için uygulamaya ait ekran görüntüleri `screenshots/` dizinine eklenmelidir.
-- Örnek dosya adları:
-  - `screenshots/home.png`
-  - `screenshots/product_detail.png`
-  - `screenshots/cart.png`
+Aşağıdaki örnek ekran görüntülerini `screenshots/` dizinine ekledim:
+
+- `screenshots/home.png`
+- `screenshots/product_detail.png`
+- `screenshots/cart.png`
+
+Bu screenshot’lar placeholder olarak eklendi; istersen gerçek uygulama görüntüleriyle değiştirebilirsin.
 
 ## Teslim ve Değerlendirme Kriterleri
 
