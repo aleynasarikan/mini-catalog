@@ -1,0 +1,292 @@
+﻿{
+    "status":  "success",
+    "meta":  {
+                 "title":  "WANTAPI Mock Data",
+                 "description":  "For educational and testing purposes only.",
+                 "copyright":  "Product names and trademarks are property of their respective owners. Not affiliated with Apple Inc.",
+                 "generated":  "2026-06-17T18:47:30+00:00",
+                 "count":  20
+             },
+    "data":  [
+                 {
+                     "id":  1,
+                     "name":  "iPhone 15 Pro",
+                     "tagline":  "Titanium. So strong. So light. So Pro.",
+                     "description":  "The iPhone 15 Pro is the first iPhone to feature an aerospace-grade titanium design, making it lighter and more durable than ever before. It is powered by the groundbreaking A17 Pro chip, which delivers next-level gaming performance and efficiency. The device boasts a customizable Action button, replacing the traditional mute switch for quick access to your favorite features. Its pro-class camera system includes a 48MP Main camera and telephoto lenses for stunning photography in any light. Experience the future of smartphones with a display that pushes the limits of brightness.",
+                     "price":  "$999",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/iphone.png",
+                     "specs":  {
+                                   "chip":  "A17 Pro",
+                                   "material":  "Titanium",
+                                   "camera":  "48MP Main"
+                               }
+                 },
+                 {
+                     "id":  2,
+                     "name":  "iPhone 15",
+                     "tagline":  "New camera. New design. Newphoria.",
+                     "description":  "The iPhone 15 features a stunning new design with color-infused back glass and a contoured aerospace-grade aluminum enclosure. It introduces the Dynamic Island, bubbling up alerts and live activities so you don’t miss them. The 48MP Main camera allows for super-high-resolution photos, while the 2x Telephoto option acts like a third camera. Powered by the A16 Bionic chip, it handles advanced computational photography with ease. Now with a USB-C connector, you can charge your Mac or iPad with the same cable.",
+                     "price":  "$799",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/iphone_pink.png",
+                     "specs":  {
+                                   "chip":  "A16 Bionic",
+                                   "material":  "Aluminum",
+                                   "camera":  "48MP Main"
+                               }
+                 },
+                 {
+                     "id":  3,
+                     "name":  "iPhone 15 Plus",
+                     "tagline":  "Huge screen. Huge battery life.",
+                     "description":  "The iPhone 15 Plus offers a huge Super Retina XDR display that brings your content to life with vibrant colors and incredible detail. With its massive battery life, you can enjoy all-day usage without worrying about running out of power. The A16 Bionic chip ensures snappy performance for all your apps and games. Capture amazing photos with the advanced 48MP Main camera system, which now supports next-generation portraits. It is the perfect combination of size and power.",
+                     "price":  "$899",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/iphone_yellow.png",
+                     "specs":  {
+                                   "chip":  "A16 Bionic",
+                                   "display":  "6.7\"",
+                                   "battery":  "All-day"
+                               }
+                 },
+                 {
+                     "id":  4,
+                     "name":  "iPhone 14",
+                     "tagline":  "Wonderfull.",
+                     "description":  "The iPhone 14 takes a huge leap in battery life and durability, making it a total powerhouse for its price. It features a ceramic shield front that is tougher than any smartphone glass. The advanced dual-camera system lets you take beautiful photos in any light, from bright sun to low-light scenes. Powered by the A15 Bionic chip with a 5-core GPU, it delivers lightning-fast performance. With Crash Detection, the iPhone 14 can call for help when you can not.",
+                     "price":  "$699",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/iphone_blue.png",
+                     "specs":  {
+                                   "chip":  "A15 Bionic",
+                                   "display":  "6.1\"",
+                                   "camera":  "Dual system"
+                               }
+                 },
+                 {
+                     "id":  5,
+                     "name":  "iPhone SE",
+                     "tagline":  "Love the power. Love the price.",
+                     "description":  "The iPhone SE packs the powerful A15 Bionic chip into a popular and compact design that fits perfectly in your pocket. It features a brilliant 4.7-inch Retina HD display and the home button you know and love with Touch ID. The advanced camera system features Smart HDR 4 and Deep Fusion for great photos. Durable by design, it has the toughest glass in a smartphone and is water and dust resistant. It is the most affordable way to get the incredible performance of an iPhone.",
+                     "price":  "$429",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/iphone_se.png",
+                     "specs":  {
+                                   "chip":  "A15 Bionic",
+                                   "display":  "4.7\"",
+                                   "id":  "Touch ID"
+                               }
+                 },
+                 {
+                     "id":  6,
+                     "name":  "MacBook Pro 16\"",
+                     "tagline":  "Mind-blowing. Head-turning.",
+                     "description":  "The MacBook Pro 16-inch is the most advanced Mac laptop ever, powered by the M3 Max chip for extreme performance. Its Liquid Retina XDR display is mind-blowing, offering 1000 nits of sustained brightness for HDR content. With up to 22 hours of battery life, you can work on the most demanding projects all day long. It features a wide array of ports, including HDMI, SDXC, and MagSafe 3. This machine is designed for pros who need a laptop that can handle heavy workflows with ease.",
+                     "price":  "$2,499",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/macbook.png",
+                     "specs":  {
+                                   "chip":  "M3 Max",
+                                   "display":  "Liquid Retina XDR",
+                                   "battery":  "22 hrs"
+                               }
+                 },
+                 {
+                     "id":  7,
+                     "name":  "MacBook Pro 14\"",
+                     "tagline":  "Pro to the max.",
+                     "description":  "The MacBook Pro 14-inch is pro to the max, featuring the M3 Pro chip for serious workflow power and efficiency. It delivers the same stunning Liquid Retina XDR display as its larger sibling but in a more compact form. The six-speaker sound system with force-cancelling woofers fills the room with clear audio. It supports up to two external displays and has a long-lasting battery. Whether you are editing video or mixing music, this laptop is built to perform.",
+                     "price":  "$1,599",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/macbook_silver.png",
+                     "specs":  {
+                                   "chip":  "M3 Pro",
+                                   "display":  "14.2\"",
+                                   "ports":  "HDMI, SDXC"
+                               }
+                 },
+                 {
+                     "id":  8,
+                     "name":  "MacBook Air 15\"",
+                     "tagline":  "Impressively big.",
+                     "description":  "The MacBook Air 15-inch is excessively big on screen space yet impressively thin and light. Supercharged by the M2 chip, it delivers incredible speed and power efficiency for everything from work to play. The expansive 15.3-inch Liquid Retina display gives you more room to see what you love. Its fanless design means it runs completely silent even when tackling intensive tasks. With an all-day battery life, it redefines what a portable laptop can be.",
+                     "price":  "$1,299",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/macbook_air.png",
+                     "specs":  {
+                                   "chip":  "M2",
+                                   "weight":  "3.3 lbs",
+                                   "design":  "Fanless"
+                               }
+                 },
+                 {
+                     "id":  9,
+                     "name":  "MacBook Air 13\"",
+                     "tagline":  "Don’t take it lightly.",
+                     "description":  "The MacBook Air 13-inch is the world’s best-selling laptop for a reason; it combines portability with the power of the M2 chip. It features a redesigned strikingly thin aluminum enclosure that is durable and built to last. The 13.6-inch Liquid Retina display supports 1 billion colors, making text super crisp. It comes with a 1080p FaceTime HD camera so you look great on video calls. With up to 18 hours of battery life, you can leave the adapter at home.",
+                     "price":  "$1,099",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/macbook_starlight.png",
+                     "specs":  {
+                                   "chip":  "M2",
+                                   "battery":  "18 hrs",
+                                   "display":  "13.6\""
+                               }
+                 },
+                 {
+                     "id":  10,
+                     "name":  "iMac",
+                     "tagline":  "Packed with power.",
+                     "description":  "The iMac is the all-in-one for all, now supercharged by the M3 chip for even faster performance. Its stunning 24-inch 4.5K Retina display offers 500 nits of brightness and over a billion colors. The strikingly thin design is available in seven vibrant colors to brighten up any room. It features a 1080p FaceTime HD camera and studio-quality mics for an immersive experience. With color-matched accessories, every detail is designed for style and simplicity.",
+                     "price":  "$1,299",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/imac.png",
+                     "specs":  {
+                                   "chip":  "M3",
+                                   "display":  "24\" 4.5K Retina",
+                                   "colors":  "7 vibrant colors"
+                               }
+                 },
+                 {
+                     "id":  11,
+                     "name":  "iPad Pro 12.9\"",
+                     "tagline":  "Supercharged by M2.",
+                     "description":  "The iPad Pro 12.9-inch provides the ultimate iPad experience, supercharged by the M2 chip for groundbreaking performance. Its Liquid Retina XDR display delivers true-to-life detail with a 1,000,000:1 contrast ratio. Support for Apple Pencil hover allows you to preview your mark before you make it. With ultrafast wireless connectivity, you can connect to high-performance accessories. It is a versatile powerhouse that can replace a laptop for many creative professionals.",
+                     "price":  "$1,099",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/ipad.png",
+                     "specs":  {
+                                   "chip":  "M2",
+                                   "screen":  "XDR",
+                                   "pencil":  "Hover support"
+                               }
+                 },
+                 {
+                     "id":  12,
+                     "name":  "iPad Air",
+                     "tagline":  "Light. Bright. Full of might.",
+                     "description":  "The iPad Air combines serious performance with a thin and light design, making it a versatile tool for creativity. Powered by the breakthrough M1 chip, it delivers a giant leap in performance and all-day battery life. The immersive 10.9-inch Liquid Retina display features P3 wide color and an anti-reflective coating. Touch ID is built into the top button, offering a fast and secure way to unlock your iPad. Compatible with the Magic Keyboard, it adapts to whatever task you have at hand.",
+                     "price":  "$599",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/ipad_air.png",
+                     "specs":  {
+                                   "chip":  "M1",
+                                   "display":  "10.9\"",
+                                   "connectivity":  "5G"
+                               }
+                 },
+                 {
+                     "id":  13,
+                     "name":  "iPad Mini",
+                     "tagline":  "Mega power. Mini sized.",
+                     "description":  "The iPad Mini delivers mega power in a mini size, offering the full iPad experience designed to fit in the palm of your hand. It features an all-screen design with an 8.3-inch Liquid Retina display that is sharp and vivid. Powered by the A15 Bionic chip, it handles complex tasks and graphics-intensive games with ease. Center Stage on the 12MP Ultra Wide front camera keeps you in the frame automatically. It is perfect for taking notes or reading on the go.",
+                     "price":  "$499",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/ipad_mini.png",
+                     "specs":  {
+                                   "chip":  "A15 Bionic",
+                                   "display":  "8.3\"",
+                                   "camera":  "12MP Wide"
+                               }
+                 },
+                 {
+                     "id":  14,
+                     "name":  "Apple Watch Ultra 2",
+                     "tagline":  "Next level.",
+                     "description":  "The Apple Watch Ultra 2 is the most rugged and capable Apple Watch ever, designed for endurance athletes and adventurers. It features a lightweight titanium case that is corrosion-resistant and protects the sapphire crystal. The brightest display Apple has ever created hits 3000 nits, ensuring readability in harsh sunlight. Dual-frequency GPS provides the most accurate location metrics in challenging environments. With up to 36 hours of battery life, it pushes the limits so you can too.",
+                     "price":  "$799",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/watch.png",
+                     "specs":  {
+                                   "case":  "Titanium",
+                                   "brightness":  "3000 nits",
+                                   "gps":  "Precision dual-frequency"
+                               }
+                 },
+                 {
+                     "id":  15,
+                     "name":  "Apple Watch Series 9",
+                     "tagline":  "Smarter. Brighter. Mightier.",
+                     "description":  "The Apple Watch Series 9 is smarter, brighter, and mightier, powered by the custom S9 SiP for a boost in performance. It introduces a magical new way to use your watch without touching the screen: Double tap your fingers. The display is twice as bright as the previous generation, making it easier to read in daylight. It offers advanced health insights to help you understand your body better. As Apple first carbon-neutral product option, it represents a major milestone.",
+                     "price":  "$399",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/watch_series9.png",
+                     "specs":  {
+                                   "chip":  "S9 SiP",
+                                   "feature":  "Double tap",
+                                   "carbon":  "Neutral option"
+                               }
+                 },
+                 {
+                     "id":  16,
+                     "name":  "Apple Vision Pro",
+                     "tagline":  "Welcome to spatial computing.",
+                     "description":  "Apple Vision Pro is a revolutionary spatial computer that seamlessly blends digital content with your physical world. It introduces a fully three-dimensional user interface controlled by your eyes, hands, and voice. The ultra-high-resolution display system packs 23 million pixels across two micro-OLED displays. Spatial Audio makes you feel like the sound is coming from the environment around you. It transforms the way you use apps, enjoy entertainment, and connect with others.",
+                     "price":  "$3,499",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/vision_pro.png",
+                     "specs":  {
+                                   "os":  "visionOS",
+                                   "display":  "Micro-OLED",
+                                   "control":  "Eyes, hands, voice"
+                               }
+                 },
+                 {
+                     "id":  17,
+                     "name":  "AirPods Pro (2nd Gen)",
+                     "tagline":  "Adaptive Audio.",
+                     "description":  "The AirPods Pro (2nd Generation) feature the new H2 chip, delivering smarter noise cancellation and superior sound. Adaptive Audio effectively prioritizes sounds that need your attention while reducing background noise. They offer up to 2x more Active Noise Cancellation than the previous generation, creating an oasis of silence. The MagSafe Charging Case (USB-C) now features Precision Finding and a built-in speaker. With personalized Spatial Audio, the sound is tuned specifically to your ear shape.",
+                     "price":  "$249",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/airpods.png",
+                     "specs":  {
+                                   "chip":  "H2",
+                                   "audio":  "Spatial Audio",
+                                   "case":  "USB-C"
+                               }
+                 },
+                 {
+                     "id":  18,
+                     "name":  "AirPods Max",
+                     "tagline":  "Sound focused.",
+                     "description":  "AirPods Max reimagine over-ear headphones with an Apple-designed dynamic driver that provides high-fidelity audio. Active Noise Cancellation blocks outside noise so you can immerse yourself in what you are listening to. The knit mesh canopy and ear cushions are designed for an exceptional acoustic seal and all-day comfort. Computational audio combines custom acoustic design with the Apple H1 chip for breakthrough experiences. Spatial Audio with dynamic head tracking places sounds all around you.",
+                     "price":  "$549",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/airpods_max.png",
+                     "specs":  {
+                                   "driver":  "Dynamic",
+                                   "cancellation":  "Active Noise",
+                                   "materials":  "Mesh canopy"
+                               }
+                 },
+                 {
+                     "id":  19,
+                     "name":  "HomePod",
+                     "tagline":  "Profound sound.",
+                     "description":  "The HomePod is a powerhouse of sound, delivering high-fidelity audio that adapts to the room it is in for the best experience. It features a high-excursion woofer and a beamforming tweeter array that creates deep bass and crystal-clear highs. With room sensing technology, it automatically tunes the sound based on its location. It works seamlessly with your Apple devices and can be used as a smart home hub. Siri is built-in to help you with everyday tasks and control your music.",
+                     "price":  "$299",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/homepod.png",
+                     "specs":  {
+                                   "audio":  "Computational",
+                                   "home":  "Smart Hub",
+                                   "sensing":  "Room sensing"
+                               }
+                 },
+                 {
+                     "id":  20,
+                     "name":  "HomePod Mini",
+                     "tagline":  "Color-pop.",
+                     "description":  "The HomePod Mini is jam-packed with innovation, delivering unexpectedly big sound for a speaker of its size. At just 3.3 inches tall, it takes up almost no space but fills the entire room with rich 360-degree audio. It works effortlessly with your iPhone—hand off music just by bringing your phone close to the speaker. You can place multiple HomePod mini speakers around the house for a connected sound system. It is also an intelligent assistant that helps you manage your smart home.",
+                     "price":  "$99",
+                     "currency":  "USD",
+                     "image":  "https://wantapi.com/assets/images/homepod_mini.png",
+                     "specs":  {
+                                   "size":  "3.3 inches",
+                                   "audio":  "360-degree",
+                                   "colors":  "5 colors"
+                               }
+                 }
+             ]
+}
