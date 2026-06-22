@@ -68,6 +68,10 @@ Bu proje ile öğrenciler aşağıdaki yetkinliklere sahip olacaktır:
 
 ![Ana Sayfa](screenshots/home.png)
 
+### Kategoriler (Categories)
+
+![Kategoriler](screenshots/categories.png)
+
 ### Ürün Detayı (Product Detail)
 
 ![Ürün Detayı](screenshots/product_detail.png)
@@ -75,6 +79,14 @@ Bu proje ile öğrenciler aşağıdaki yetkinliklere sahip olacaktır:
 ### Sepet (Cart)
 
 ![Sepet](screenshots/cart.png)
+
+### Favori Ürünler (Wishlist)
+
+![Favori Ürünler](screenshots/wishlist.png)
+
+### Profil (Profile)
+
+![Profil](screenshots/profile.png)
 
 ## Teslim ve Değerlendirme Kriterleri
 
