@@ -64,13 +64,17 @@ Bu proje ile öğrenciler aşağıdaki yetkinliklere sahip olacaktır:
 
 ## Ekran Görüntüleri
 
-Aşağıdaki örnek ekran görüntülerini `screenshots/` dizinine ekledim:
+### Ana Sayfa (Home)
 
-- `screenshots/home.png`
-- `screenshots/product_detail.png`
-- `screenshots/cart.png`
+![Ana Sayfa](screenshots/home.png)
 
-Bu screenshot’lar placeholder olarak eklendi; istersen gerçek uygulama görüntüleriyle değiştirebilirsin.
+### Ürün Detayı (Product Detail)
+
+![Ürün Detayı](screenshots/product_detail.png)
+
+### Sepet (Cart)
+
+![Sepet](screenshots/cart.png)
 
 ## Teslim ve Değerlendirme Kriterleri
 
